@@ -1,3 +1,5 @@
+iris-rev2
+
 # Junk files
 *.bak
 *.swp
@@ -48,6 +50,7 @@ quantum/version.h
 .project
 .settings/
 .vagrant/
+.ccls-cache/
 
 # ?
 .dep
